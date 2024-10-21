@@ -16,8 +16,8 @@
 body {
     display: flex;
     justify-content: center;
-    max-width: 1440px;
-    min-width: 1024px;
+    /* max-width: 1440px;
+    min-width: 1024px; */
 }
 
 .main-container {
@@ -234,10 +234,6 @@ p .fas {
     margin-top: 33px;
     flex-direction: column;
     height: 220px;
- /* display: flex;
- flex-direction: column;
- height: 200px;
- width: 250px; */
 }
 
 .hebergements .hebergements-cards img {
